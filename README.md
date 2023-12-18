@@ -16,4 +16,5 @@ Used technologies:
 
 <h2> ChatGPT Clone Screen </h1>
 
-![chatscreen](https://github.com/SercanErpolat/ChatGPT-Clone/assets/110222359/30774757-bc27-417f-a03c-2fdc9ad645ce)
+![chatscreennn](https://github.com/SercanErpolat/ChatGPT-Clone/assets/110222359/3f8e3d85-b5a2-44a3-b278-2b9a448db0c1)
+
