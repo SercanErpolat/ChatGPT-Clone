@@ -10,7 +10,7 @@ Used technologies:
 
 - HTML
   
-– CSS
+- CSS
 
 - JAVASCRIPT
 
