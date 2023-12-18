@@ -14,5 +14,6 @@ Used technologies:
 
 - JAVASCRIPT
 
+<h2> ChatGPT Clone Screen </h1>
 
-  
+![chatscreen](https://github.com/SercanErpolat/ChatGPT-Clone/assets/110222359/30774757-bc27-417f-a03c-2fdc9ad645ce)
